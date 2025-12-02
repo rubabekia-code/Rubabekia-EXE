@@ -1,2 +1,2 @@
 # Windows-EXE
-Download Rubabekia App (Android)
+Download Rubabekia App (Windows)
